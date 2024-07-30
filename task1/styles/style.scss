@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+  }
+  
+  body {
+    background-color: rgb(190, 184, 184);
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    .tit{
+      position: relative;
+      bottom: 30px;
+    }
+    .contain{
+      background-color: rgb(187, 205, 247);
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      width: 80%;
+      .lists{
+        display: flex;
+        flex-direction: column;
+        opacity: 1;
+        border-right: 1px solid rgb(43, 42, 42);
+        padding-right: 10px;
+
+        .out{
+            display: flex;
+            flex-direction: column;
+            margin: 10px;
+            border: 1px solid rgba(55, 52, 52,0.4);
+            align-items: center;
+            padding: 10px;
+            gap: 10px;
+            .Outputs{
+              display: flex;
+              justify-content: space-between;
+              width: 100%;
+              border: 1px solid rgb(169, 169, 169);
+              background-color: rgb(155, 160, 158);
+              height: 30px;
+              align-items: center;
+              .names{
+                margin-left: 10px;
+              }
+              .edit_btn{
+                border: 1px solid rgb(255, 115, 0);
+                border-radius: 10px;
+                width: 50px;
+                height: 20px;
+                cursor: pointer;
+                font-family:'Roboto', sans-serif;
+                margin-right: 10px;
+                font-weight: 800;
+              }
+              .delete_btn{
+                border: 1px solid blue;
+                border-radius: 10px;
+                width: 50px;
+                height: 20px;
+                cursor: pointer;
+                font-family:'Roboto', sans-serif;
+                margin-right: 10px;
+                font-weight: 800;
+              }
+            }
+        }
+      }
+      .add-items{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;        
+        #input{
+          height: 40px;
+          align-items: center;
+          text-align: center;
+        }
+      }
+      #add, #load{
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 10px;
+        height: 40px;
+        font-family:Arial, Helvetica, sans-serif;
+        font-weight:bolder;
+
+        cursor: pointer;
+      }
+      button:hover{
+        box-shadow: 0px 4px 8px rgb(78, 76, 76);
+      }
+    }
+  }/*# sourceMappingURL=style.css.map */
