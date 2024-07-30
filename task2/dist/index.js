@@ -3,6 +3,7 @@ let item = document.getElementById("input_item");
 const add_btn = document.getElementById("add_btn");
 const output = document.querySelector(".out");
 let list = [];
+
 let editindex = -1;
 console.log(add_btn);
 add_btn && add_btn.addEventListener("click", () => {

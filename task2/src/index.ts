@@ -7,7 +7,7 @@ let editindex: number = -1;
 
 console.log(add_btn);
 
-// add-item
+// add-items
 add_btn && add_btn.addEventListener("click", () => {
     const input: string = item.value;
     
