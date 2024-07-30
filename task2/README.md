@@ -19,15 +19,21 @@ This project is a simple to-do list application built with HTML, CSS, and TypeSc
 
 1. **Open the Project:**
    - Open the `index.html` file in a web browser to view the application.
+   <img src="https://github.com/user-attachments/assets/b6e2d125-4f15-4968-afee-2c3c864ce621" alt="Screenshot 2024-07-30 045208" width="500"/>
+   <img src="https://github.com/user-attachments/assets/207e4319-bcaa-4604-9fe8-1adc3deb230e" alt="Screenshot 2024-07-30 045224" width="500"/>
 
 2. **Add an Item:**
    - Enter text into the input field and click the "Add" button.
+   <img src="https://github.com/user-attachments/assets/4f121b42-ab3c-419c-b48e-9091626fcdf8" alt="Screenshot 2024-07-30 045251" width="500"/>
 
 3. **Edit an Item:**
    - Click the "Edit" button next to the item you want to edit. The input field will be populated with the item’s current value, and you can update it by clicking "Update".
+   <img src="https://github.com/user-attachments/assets/9e97ad0e-a68f-49c7-81b3-e9bc2bf5afef" alt="Screenshot 2024-07-30 045314" width="500"/>
 
 4. **Delete an Item:**
    - Click the "Delete" button next to the item you want to remove.
+   <img src="https://github.com/user-attachments/assets/25509557-3fe0-472e-84d9-ab15989ba9be" alt="Screenshot 2024-07-30 045326" width="500"/>
+
 
 ## Code Explanation
 
