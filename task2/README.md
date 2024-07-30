@@ -1,4 +1,3 @@
-```markdown
 # Typescript To-Do List
 
 This project is a simple to-do list application built with HTML, CSS, and TypeScript. It allows users to add, edit, and delete items from a list.
@@ -19,7 +18,7 @@ This project is a simple to-do list application built with HTML, CSS, and TypeSc
 
 1. **Open the Project:**
    - Open the `index.html` file in a web browser to view the application.
-   ![Screenshot 2024-07-30 045326](https://github.com/user-attachments/assets/25509557-3fe0-472e-84d9-ab15989ba9be)
+  <img src="https://github.com/user-attachments/assets/b6e2d125-4f15-4968-afee-2c3c864ce621" alt="Screenshot 2024-07-30 045208" width="500"/>
    <img src="https://github.com/user-attachments/assets/207e4319-bcaa-4604-9fe8-1adc3deb230e" alt="Screenshot 2024-07-30 045224" width="500"/>
 
 2. **Add an Item:**
