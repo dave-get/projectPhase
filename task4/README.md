@@ -34,15 +34,14 @@
 <p><strong>Functions:</strong></p>
 <ul>
     <li><strong>handleOnclickAdd:</strong> Adds a new item to the list.</li>
-    ![Screenshot 2024-07-31 191328](https://github.com/user-attachments/assets/28f52c02-f9d8-408f-81a3-e87f71c26e92)
-    ![Screenshot 2024-07-31 191439](https://github.com/user-attachments/assets/f769f6d8-67d0-4118-8715-9a86a1e7a54c)
+    <img src="https://github.com/user-attachments/assets/28f52c02-f9d8-408f-81a3-e87f71c26e92" alt="Screenshot 2024-07-31 191328" style="max-width: 100%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/f769f6d8-67d0-4118-8715-9a86a1e7a54c" alt="Screenshot 2024-07-31 191439" style="max-width: 100%; height: auto;" />
     <li><strong>handleOnclickUpdate:</strong> Updates an existing item.</li>
-    ![Screenshot 2024-07-31 191547](https://github.com/user-attachments/assets/c0c4cc4e-b770-4c45-9697-91a04c963bc1)
+    <img src="https://github.com/user-attachments/assets/c0c4cc4e-b770-4c45-9697-91a04c963bc1" alt="Screenshot 2024-07-31 191547" style="max-width: 100%; height: auto;" />
     <li><strong>handleDelete:</strong> Deletes an item from the list.</li>
-    ![Screenshot 2024-07-31 191607](https://github.com/user-attachments/assets/4634eedc-d12d-499b-a46a-3899fb1e3d4e)
+    <img src="https://github.com/user-attachments/assets/4634eedc-d12d-499b-a46a-3899fb1e3d4e" alt="Screenshot 2024-07-31 191607" style="max-width: 100%; height: auto;" />
     <li><strong>handleEdit:</strong> Sets up the item for editing.</li>
-    ![Screenshot 2024-07-31 191454](https://github.com/user-attachments/assets/79cda928-4ce3-4ae6-b679-a4dac7e933ac)
-
+    <img src="https://github.com/user-attachments/assets/79cda928-4ce3-4ae6-b679-a4dac7e933ac" alt="Screenshot 2024-07-31 191454" style="max-width: 100%; height: auto;" />
 </ul>
 
 <h2>Components</h2>
