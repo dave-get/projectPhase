@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+body {
+  background-color: rgb(173, 178, 183);
+}
+body .app {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body .app .todo_body {
+  padding-top: 100px;
+  width: 80%;
+  min-height: 100vh;
+  background-color: rgb(181, 173, 163);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+body .app .todo_body .title {
+  font-size: larger;
+  font-family: monospace, Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-size: 30px;
+  width: 90%;
+  height: 40px;
+  background-color: rgb(186, 180, 170);
+  box-shadow: 1px 20px 30px rgb(133, 133, 174);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body .app .todo_body .inputBar {
+  width: 90%;
+  height: 40px;
+  border-radius: 10px;
+  border: 0;
+  outline: none;
+  text-align: center;
+  box-shadow: 1px 20px 30px rgb(145, 218, 141);
+  font-family: monospace;
+}
+body .app .todo_body .outputItems {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border: 2px solid rgb(124, 176, 218);
+}
+body .app .todo_body .outputItems .output {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(133, 133, 116);
+  padding: 0 10px 0 10px;
+}
+body .app .todo_body .outputItems .output .idname {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: 18px;
+  display: flex;
+  gap: 100px;
+}
+body .app .todo_body .outputItems .output .btns {
+  display: flex;
+  gap: 10px;
+}
+body .app .todo_body .outputItems .output .btns button {
+  width: 100px;
+  border: 1px solid greenyellow;
+  border-radius: 5px;
+  height: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: blue;
+}
+body .app .todo_body .but {
+  width: 400px;
+  height: 30px;
+  font-size: larger;
+  font-weight: bolder;
+  border: 1px solid blue;
+  border-radius: 10px;
+}/*# sourceMappingURL=style.css.map */
