@@ -16,7 +16,7 @@
 <h2>Usage</h2>
 <ol>
     <li><strong>Start the Development Server</strong>
-        <pre><code>npm start</code></pre>
+        <pre><code>npm run dev</code></pre>
     </li>
     <li><strong>Open Your Browser</strong>
         <p>Go to <code>http://localhost:3000</code> to view the application.</p>
@@ -34,10 +34,15 @@
 <p><strong>Functions:</strong></p>
 <ul>
     <li><strong>handleOnclickAdd:</strong> Adds a new item to the list.</li>
+    ![Screenshot 2024-07-31 191328](https://github.com/user-attachments/assets/28f52c02-f9d8-408f-81a3-e87f71c26e92)
+    ![Screenshot 2024-07-31 191439](https://github.com/user-attachments/assets/f769f6d8-67d0-4118-8715-9a86a1e7a54c)
     <li><strong>handleOnclickUpdate:</strong> Updates an existing item.</li>
+    ![Screenshot 2024-07-31 191547](https://github.com/user-attachments/assets/c0c4cc4e-b770-4c45-9697-91a04c963bc1)
     <li><strong>handleDelete:</strong> Deletes an item from the list.</li>
+    ![Screenshot 2024-07-31 191607](https://github.com/user-attachments/assets/4634eedc-d12d-499b-a46a-3899fb1e3d4e)
     <li><strong>handleEdit:</strong> Sets up the item for editing.</li>
-    <li><strong>handleInputChange:</strong> Updates the input value.</li>
+    ![Screenshot 2024-07-31 191454](https://github.com/user-attachments/assets/79cda928-4ce3-4ae6-b679-a4dac7e933ac)
+
 </ul>
 
 <h2>Components</h2>
