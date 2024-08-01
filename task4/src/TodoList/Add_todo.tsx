@@ -10,7 +10,10 @@ export const Add_todo = () => {
   const [Fruits, setFruits] = useState<{ name: string; id: number }[]>([]);
 
   const handleOnclickAdd = () => {
-    item? setFruits((prev) => [...prev, { name: item, id: Fruits.length + 1 }]):alert("Please Enter Item")
+    item
+      ? (setFruits((prev) => [...prev, { name: item, id: Fruits.length + 1 }]),
+        setItem(""))
+      : alert("Please Enter Item");
   };
 
   const handleOnclickUpdate = () => {
@@ -47,7 +50,7 @@ export const Add_todo = () => {
           ? Fruits.map((items, index) => (
               <div className="output" key={items.id}>
                 <div className="idname">
-                  <span>{index+1}</span>
+                  <span>{index + 1}</span>
                   <span>{items.name}</span>
                 </div>
                 <div className="btns">
