@@ -1,0 +1,76 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: none;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+#root .app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: rgb(124, 116, 116);
+  align-items: center;
+  justify-content: center;
+}
+#root .app .inputPart {
+  display: flex;
+  justify-content: center;
+  min-height: 400px;
+  width: 50%;
+  background-color: aquamarine;
+  border-radius: 10px;
+}
+#root .app .inputPart h1 {
+  margin-top: 100px;
+}
+#root .app .inputPart form {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 10px;
+  border-radius: 10px;
+  background-color: rgb(216, 216, 198);
+}
+#root .app .inputPart form .username, #root .app .inputPart form .email, #root .app .inputPart form .message {
+  text-align: left;
+  width: 70%;
+  margin-top: 30px;
+}
+#root .app .inputPart form .impt {
+  width: 70%;
+  height: 30px;
+  border: 1px solid rgb(43, 193, 65);
+  border-radius: 5px;
+  padding-left: 10px;
+}
+#root .app .inputPart form .messageImpt {
+  height: 60px;
+  width: 70%;
+  border: 1px solid rgb(43, 193, 65);
+  border-radius: 5px;
+  outline: transparent;
+  padding-left: 7px;
+  padding-top: 7px;
+  resize: none;
+}
+#root .app .inputPart form button {
+  margin-top: 20px;
+  width: 70%;
+  border: 1px solid gray;
+  border-radius: 10px;
+  height: 30px;
+}
+#root .app .inputPart form button:hover {
+  box-shadow: 2px 5px 8px greenyellow;
+}
+#root .app .inputPart form .error {
+  color: red;
+  font-size: 12px;
+  text-align: left;
+}/*# sourceMappingURL=FromStyle.css.map */

@@ -8,14 +8,13 @@ export const Add_todo = () => {
   const [item, setItem] = useState("");
   const [index, setIndex] = useState(-1);
   const [Fruits, setFruits] = useState<{ name: string; id: number }[]>([]);
-  
+
   const handleOnclickAdd = () => {
     item
       ? (setFruits((prev) => [...prev, { name: item, id: Fruits.length + 1 }]),
         setItem(""))
       : alert("Please Enter Item");
   };
-  //jhvv
 
   const handleOnclickUpdate = () => {
     Fruits[index].name = item;
