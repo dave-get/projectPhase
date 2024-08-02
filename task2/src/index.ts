@@ -48,6 +48,7 @@ function renderList() {
       list_html += L_html;
     }
     output.innerHTML = list_html;
+    // edit items
 
     document.querySelectorAll(".edit_btn").forEach((button) => {
       button.addEventListener("click", function (e) {
