@@ -11,6 +11,7 @@
     <li><strong>Form Validation:</strong> Validates user inputs for username, email, and message fields.</li>
     <li><strong>Error Handling:</strong> Displays error messages for invalid inputs.</li>
 </ul>
+<img src="https://github.com/user-attachments/assets/ce0176c7-8971-4df0-b945-a91926fdb074" alt="Screenshot 2024-08-02 062144">
 
 <h2>Code Overview</h2>
 <p><strong>Input_form Component:</strong> This component renders a form with fields for username, email, and message.</p>
