@@ -25,7 +25,7 @@ export const Add_todo = () => {
   const handleDelete = (index: number) => {
     setFruits((prev) => prev.filter((elem) => elem.id !== index));
   };
-
+  
   const handleEdit = (index: number) => {
     setItem(Fruits[index].name);
     setIndex(index);

@@ -1,4 +1,3 @@
-// import { useState } from "react";
 interface InputProps {
     item: string;
     handleChange: (e: React.ChangeEvent<HTMLInputElement>) => void;
