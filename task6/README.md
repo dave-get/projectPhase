@@ -6,6 +6,7 @@
   <p>This is a React application built with Next.js that displays a list of job postings. Each job posting can be clicked to view more detailed information.</p>
 
   <h2>Features</h2>
+  <p>Figma Design</p> <a href="[https://nextjs.org/](https://www.figma.com/file/igmFo7dypzpuM02KJi8cay/Task-1?type=design&node-id=0%3A1&mode=design&t=FUZyVfl0w887g31l-1)" target="_blank">heres</a>
   <ul>
     <li><strong>Job Listing:</strong> Displays a list of job postings.</li>
     <li><strong>Detailed Job Information:</strong> Clicking on a job posting shows detailed information about the job, including description, responsibilities, ideal candidate traits, location, and important dates.</li>
