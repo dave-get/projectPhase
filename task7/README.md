@@ -64,6 +64,5 @@
   <li><code>getAllOpportunity</code>: Fetches all job postings.</li>
   <li><code>getOpportunityById</code>: Fetches a specific job posting by ID.</li>
 </ul>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
+<h1>Video</h1>
+https://github.com/user-attachments/assets/7e76d641-c3fe-461e-94fb-f93f9bf1de5b
