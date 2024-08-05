@@ -65,4 +65,8 @@
   <li><code>getOpportunityById</code>: Fetches a specific job posting by ID.</li>
 </ul>
 <h1>Video</h1>
-https://github.com/user-attachments/assets/7e76d641-c3fe-461e-94fb-f93f9bf1de5b
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/7e76d641-c3fe-461e-94fb-f93f9bf1de5b" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
