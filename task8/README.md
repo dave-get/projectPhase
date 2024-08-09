@@ -107,6 +107,7 @@
 <h3>Form Validation</h3>
 <p>Zod is used to define the validation schemas in <code>schema/Schema.ts</code>. These schemas are applied to the forms using React Hook Form's <code>zodResolver</code>.</p>
 
-[![Watch the video](https://github.com/your-username/your-repo/raw/main/path_to_thumbnail_image.png)](https://github.com/your-username/your-repo/issues/1#issue-1234567890)
+[![Watch the video](https://via.placeholder.com/320x240.png)](https://github.com/user-attachments/assets/069df58e-2b73-4dcd-9f58-0f33fd63425f)
+
 
 
