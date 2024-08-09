@@ -36,18 +36,9 @@
 
 <h3>Installation</h3>
 <ol>
-    <li><strong>Clone the repository:</strong>
-        <pre>
-            <code>
-                git clone https://github.com/your-username/job-portal.git 
-                cd job-portal
-            </code>
-        </pre>
-    </li>
     <li><strong>Install dependencies:</strong>
-        <pre><code>npm install
-            <!-- or -->
-            yarn install
+        <pre><code>
+            npm install
         </code></pre>
     </li>
     <li><strong>Set up environment variables:</strong>
