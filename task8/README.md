@@ -1,6 +1,5 @@
-<title>Job Portal Web Application - README</title>
-
 <h1>Job Portal Web Application</h1>
+
 <h2>Author</h2>
 <p>Dawit Getachew</p>
 
@@ -108,5 +107,6 @@
 <h3>Form Validation</h3>
 <p>Zod is used to define the validation schemas in <code>schema/Schema.ts</code>. These schemas are applied to the forms using React Hook Form's <code>zodResolver</code>.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p> 
+[![Watch the video](https://github.com/your-username/your-repo/raw/main/path_to_thumbnail_image.png)](https://github.com/your-username/your-repo/issues/1#issue-1234567890)
+
+
