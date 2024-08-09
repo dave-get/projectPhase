@@ -50,9 +50,8 @@
         </code></pre>
     </li>
     <li><strong>Run the development server:</strong>
-        <pre><code>npm run dev
-            <!-- or -->
-            yarn dev
+        <pre><code>
+            npm run dev
         </code></pre>
         <p>Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser.</p>
     </li>
