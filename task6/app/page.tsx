@@ -13,7 +13,7 @@ const Page = () => {
       {jobprofile.map((job: File) => (
         <>
           <div
-            className="bg-gray-50 font-epilogue rounded-2xl border mb-1 p-10 gap-5"
+            className="bg-gray-50 font-epilogue rounded-2xl border mb-1 p-10 gap-5 hover:shadow-2xl transition-shadow duration-300"
             key={job.id}
           >
             <Link href={`/description/${job.id}`} >
