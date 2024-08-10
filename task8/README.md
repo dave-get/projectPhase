@@ -1,6 +1,5 @@
-<title>Job Portal Web Application - README</title>
-
 <h1>Job Portal Web Application</h1>
+
 <h2>Author</h2>
 <p>Dawit Getachew</p>
 
@@ -37,18 +36,9 @@
 
 <h3>Installation</h3>
 <ol>
-    <li><strong>Clone the repository:</strong>
-        <pre>
-            <code>
-                git clone https://github.com/your-username/job-portal.git 
-                cd job-portal
-            </code>
-        </pre>
-    </li>
     <li><strong>Install dependencies:</strong>
-        <pre><code>npm install
-            <!-- or -->
-            yarn install
+        <pre><code>
+            npm install
         </code></pre>
     </li>
     <li><strong>Set up environment variables:</strong>
@@ -60,9 +50,8 @@
         </code></pre>
     </li>
     <li><strong>Run the development server:</strong>
-        <pre><code>npm run dev
-            <!-- or -->
-            yarn dev
+        <pre><code>
+            npm run dev
         </code></pre>
         <p>Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser.</p>
     </li>
@@ -108,5 +97,7 @@
 <h3>Form Validation</h3>
 <p>Zod is used to define the validation schemas in <code>schema/Schema.ts</code>. These schemas are applied to the forms using React Hook Form's <code>zodResolver</code>.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p> 
+[![Watch the video](https://via.placeholder.com/320x240.png)](https://github.com/user-attachments/assets/069df58e-2b73-4dcd-9f58-0f33fd63425f)
+
+
+
