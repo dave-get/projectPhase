@@ -25,31 +25,22 @@
     <li><strong>Zod:</strong> For schema validation.</li>
     <li><strong>Tailwind CSS:</strong> Utility-first CSS framework for styling.</li>
 </ul>
-
 <h2>Setup</h2>
-
-<h3>Prerequisites</h3>
-<ul>
-    <li>Node.js (v14.x or later)</li>
-    <li>NPM (v6.x or later) or Yarn (v1.x or later)</li>
-    <li>Environment variables for authentication and API endpoints</li>
-</ul>
-
 <h3>Installation</h3>
 <ol>
     <li><strong>Clone the repository:</strong>
         <pre>
             <code>
-                git clone https://github.com/your-username/job-portal.git 
                 cd job-portal
             </code>
         </pre>
     </li>
     <li><strong>Install dependencies:</strong>
-        <pre><code>npm install
-            <!-- or -->
-            yarn install
-        </code></pre>
+        <pre>
+            <code>
+                npm install
+            </code>
+        </pre>
     </li>
     <li><strong>Set up environment variables:</strong>
         <p>Create a <code>.env.local</code> file in the root directory and add the following:</p>
@@ -60,9 +51,8 @@
         </code></pre>
     </li>
     <li><strong>Run the development server:</strong>
-        <pre><code>npm run dev
-            <!-- or -->
-            yarn dev
+        <pre><code>
+            npm run dev
         </code></pre>
         <p>Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser.</p>
     </li>
@@ -122,3 +112,6 @@
 </ul>
 <h3>Testing</h3>
 <p>Cypress tests have been added to ensure the bookmark feature works correctly. The tests cover user login, bookmarking a job, and navigating between pages.</p>
+
+[View the asset](https://github.com/user-attachments/assets/ed4ca61e-47e4-4eac-8ac2-661f095e4be6)
+
